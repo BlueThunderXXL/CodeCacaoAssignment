@@ -1,0 +1,2 @@
+C:\Users\ivanv\OneDrive\CodeCacao Assingment\Assignment\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ivanv\OneDrive\CodeCacao Assingment\Assignment\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
